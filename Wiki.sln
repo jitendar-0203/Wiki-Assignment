@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wiki", "Wiki\Wiki.csproj", "{71AD14C4-1890-4613-9D9E-0FCDB98C526A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikiTests", "WikiTests\WikiTests.csproj", "{D06F8D99-D083-4E13-9FAF-19E1D2FF4902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71AD14C4-1890-4613-9D9E-0FCDB98C526A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AD14C4-1890-4613-9D9E-0FCDB98C526A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AD14C4-1890-4613-9D9E-0FCDB98C526A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AD14C4-1890-4613-9D9E-0FCDB98C526A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06F8D99-D083-4E13-9FAF-19E1D2FF4902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06F8D99-D083-4E13-9FAF-19E1D2FF4902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06F8D99-D083-4E13-9FAF-19E1D2FF4902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06F8D99-D083-4E13-9FAF-19E1D2FF4902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42F20A69-1879-4EDA-92A0-D241C8E822A7}
+	EndGlobalSection
+EndGlobal
